@@ -1,3 +1,5 @@
-## 0.0.1
+## 0.0.1 - First Release.
 
-* TODO: Describe initial release.
+- Colored.darken factory.
+- Colored.lighten factory.
+- Colored.toHex function.
